@@ -1,4 +1,4 @@
-export default function initAccordion() {
+export default c initAccordion() {
   const accordionList = document.querySelectorAll('[data-anime="accordion"] dt');
   const activeClass = 'ativo';
 
